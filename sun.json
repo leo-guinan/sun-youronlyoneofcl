@@ -13,9 +13,9 @@
     "display_name": "youronlyoneofcl",
     "user_id": "@youronlyoneofcl",
     "description": "Community Archive-derived proof-of-search sun for @youronlyoneofcl.",
-    "document_count": 30618,
-    "word_count": 412321,
-    "active_days": 3521,
+    "document_count": 30657,
+    "word_count": 413649,
+    "active_days": 3546,
     "emissions": [
       "Philippines",
       "Today",
@@ -24,9 +24,9 @@
       "Daily",
       "Now"
     ],
-    "generated_at": "2026-06-28T14:46:33.892581+00:00",
+    "generated_at": "2026-06-29T20:22:39.786651+00:00",
     "color": "#f59e0b",
-    "mass": 157.97,
+    "mass": 157.988,
     "density": 0.6568,
     "semantic_density": 0.6568,
     "semantic_dispersion": 0.3432,
@@ -99,14 +99,14 @@
     "embedding_backend": "stable-token-hash-v1",
     "embedding_dimensions": 64,
     "embedding_document_count": 93,
-    "planet_mass_sum": 138.165,
+    "planet_mass_sum": 138.181,
     "mass_rule": "sun mass is the topic-planet mass field plus multi-planet gravity bonus; semantic density is embedding compactness of the corpus surface"
   },
   "planets": [
     {
       "id": "planet_ff53bdad5d8a",
       "name": "Philippines",
-      "summary": "Archive cluster around philippines: 25595 posts; 4 quote-backed receipts pinned.",
+      "summary": "Archive cluster around philippines: 25630 posts; 4 quote-backed receipts pinned.",
       "top_terms": [
         "philippines",
         "youtube",
@@ -155,7 +155,7 @@
       "artifact_count": 4,
       "receipt_id": "rcpt_ea3636653a5d",
       "proof_score": 1,
-      "mass": 27.841,
+      "mass": 27.847,
       "color": "#14b8a6",
       "cluster_id": 0,
       "density": 0.8041,
@@ -232,7 +232,7 @@
       "embedding_document_count": 15,
       "mass_rule": "blended historical topic volume with stable-token-hash embedding density; compact semantic clusters pull harder than diffuse receipt piles",
       "mass_rank": 1,
-      "mass_share_of_sun": 0.17624,
+      "mass_share_of_sun": 0.17626,
       "relative_mass_to_largest_planet": 1.0,
       "radius_scale": 1.0
     },
@@ -365,9 +365,9 @@
       "embedding_document_count": 15,
       "mass_rule": "blended historical topic volume with stable-token-hash embedding density; compact semantic clusters pull harder than diffuse receipt piles",
       "mass_rank": 2,
-      "mass_share_of_sun": 0.14735,
-      "relative_mass_to_largest_planet": 0.83607,
-      "radius_scale": 0.9589
+      "mass_share_of_sun": 0.14733,
+      "relative_mass_to_largest_planet": 0.83589,
+      "radius_scale": 0.95885
     },
     {
       "id": "planet_fe7818370334",
@@ -498,14 +498,14 @@
       "embedding_document_count": 15,
       "mass_rule": "blended historical topic volume with stable-token-hash embedding density; compact semantic clusters pull harder than diffuse receipt piles",
       "mass_rank": 5,
-      "mass_share_of_sun": 0.13989,
-      "relative_mass_to_largest_planet": 0.79376,
-      "radius_scale": 0.94765
+      "mass_share_of_sun": 0.13988,
+      "relative_mass_to_largest_planet": 0.79359,
+      "radius_scale": 0.9476
     },
     {
       "id": "planet_20a138f4290e",
       "name": "New",
-      "summary": "Archive cluster around new: 1143 posts; 4 quote-backed receipts pinned.",
+      "summary": "Archive cluster around new: 1146 posts; 4 quote-backed receipts pinned.",
       "top_terms": [
         "new",
         "facebook",
@@ -554,7 +554,7 @@
       "artifact_count": 4,
       "receipt_id": "rcpt_f7b85f5f02a2",
       "proof_score": 1,
-      "mass": 22.27,
+      "mass": 22.276,
       "color": "#06b6d4",
       "cluster_id": 3,
       "density": 0.8213,
@@ -631,9 +631,9 @@
       "embedding_document_count": 15,
       "mass_rule": "blended historical topic volume with stable-token-hash embedding density; compact semantic clusters pull harder than diffuse receipt piles",
       "mass_rank": 4,
-      "mass_share_of_sun": 0.14098,
-      "relative_mass_to_largest_planet": 0.7999,
-      "radius_scale": 0.9493
+      "mass_share_of_sun": 0.141,
+      "relative_mass_to_largest_planet": 0.79994,
+      "radius_scale": 0.94931
     },
     {
       "id": "planet_e9355a1c6dc0",
@@ -764,14 +764,14 @@
       "embedding_document_count": 15,
       "mass_rule": "blended historical topic volume with stable-token-hash embedding density; compact semantic clusters pull harder than diffuse receipt piles",
       "mass_rank": 6,
-      "mass_share_of_sun": 0.12538,
-      "relative_mass_to_largest_planet": 0.7114,
-      "radius_scale": 0.92485
+      "mass_share_of_sun": 0.12536,
+      "relative_mass_to_largest_planet": 0.71124,
+      "radius_scale": 0.92481
     },
     {
       "id": "planet_b07b4834d2f0",
       "name": "Now",
-      "summary": "Archive cluster around now: 1039 posts; 4 quote-backed receipts pinned.",
+      "summary": "Archive cluster around now: 1040 posts; 4 quote-backed receipts pinned.",
       "top_terms": [
         "now",
         "available",
@@ -820,7 +820,7 @@
       "artifact_count": 4,
       "receipt_id": "rcpt_f95261ae6af7",
       "proof_score": 1,
-      "mass": 22.872,
+      "mass": 22.876,
       "color": "#84cc16",
       "cluster_id": 5,
       "density": 0.822,
@@ -897,9 +897,9 @@
       "embedding_document_count": 15,
       "mass_rule": "blended historical topic volume with stable-token-hash embedding density; compact semantic clusters pull harder than diffuse receipt piles",
       "mass_rank": 3,
-      "mass_share_of_sun": 0.14479,
-      "relative_mass_to_largest_planet": 0.82152,
-      "radius_scale": 0.95506
+      "mass_share_of_sun": 0.1448,
+      "relative_mass_to_largest_planet": 0.82149,
+      "radius_scale": 0.95505
     }
   ],
   "provenance": {
@@ -916,7 +916,7 @@
     },
     "embedding_metrics": {
       "schema": "community-solar-embeddings/v1",
-      "generated_at": "2026-06-29T10:48:38.690061+00:00",
+      "generated_at": "2026-06-29T20:22:39.791838+00:00",
       "backend": "stable-token-hash-v1",
       "dimensions": 64,
       "privacy_boundary": "derived from public Community Archive text already present in this repository; no persistent identity capture added"
